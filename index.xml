@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mathematics of Data Science</title>
-    <link>http://maths-of-data.github.io/</link>
+    <link>https://maths-of-data.github.io/</link>
     <description>Mathematics of Data Science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 20 Apr 2020 14:27:41 +0200</lastBuildDate>
     
-    <atom:link href="http://maths-of-data.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://maths-of-data.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Types of contributions</title>
-      <link>http://maths-of-data.github.io/program/</link>
+      <link>https://maths-of-data.github.io/program/</link>
       <pubDate>Mon, 20 Apr 2020 14:27:41 +0200</pubDate>
       
-      <guid>http://maths-of-data.github.io/program/</guid>
+      <guid>https://maths-of-data.github.io/program/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;The main goal of the conference is to facilitate discussions among graduate students.
 As such, we invite participants to contribute in one of the two ways.&lt;/p&gt;
@@ -32,20 +32,20 @@ Talks will be &lt;strong&gt;20 minutes long&lt;/strong&gt; followed by up to &lt
     
     <item>
       <title>Participants</title>
-      <link>http://maths-of-data.github.io/participants/</link>
+      <link>https://maths-of-data.github.io/participants/</link>
       <pubDate>Mon, 20 Apr 2020 14:21:21 +0200</pubDate>
       
-      <guid>http://maths-of-data.github.io/participants/</guid>
+      <guid>https://maths-of-data.github.io/participants/</guid>
       <description>&lt;p&gt;To be announced.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Access</title>
-      <link>http://maths-of-data.github.io/access/</link>
+      <link>https://maths-of-data.github.io/access/</link>
       <pubDate>Mon, 20 Apr 2020 14:21:14 +0200</pubDate>
       
-      <guid>http://maths-of-data.github.io/access/</guid>
+      <guid>https://maths-of-data.github.io/access/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
