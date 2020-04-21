@@ -142,7 +142,7 @@ header {
 }
 
 header h1 {
-    font-size: 1.75em;
+    font-size: 2em;
     margin-top: 1em;
     margin-bottom: 0;
     font-weight: normal;
@@ -181,7 +181,7 @@ main h1 {
     line-height: 1.1em;
     margin-bottom: 0.5em;
     font-weight: 600;
-    font-size: 1.5em;
+    font-size: 1.25em;
     font-family: Optima, Candara, Calibri, Arial, sans-serif;
 }
 
