@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mathematics of Data Science</title>
+    <link>http://maths-of-data.github.io/</link>
+    <description>Mathematics of Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 20 Apr 2020 14:27:41 +0200</lastBuildDate>
+    
+    <atom:link href="http://maths-of-data.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Types of contributions</title>
+      <link>http://maths-of-data.github.io/program/</link>
+      <pubDate>Mon, 20 Apr 2020 14:27:41 +0200</pubDate>
+      
+      <guid>http://maths-of-data.github.io/program/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;The main goal of the conference is to facilitate discussions among graduate students.
+As such, we invite participants to contribute in one of the two ways.&lt;/p&gt;
+&lt;h3 id=&#34;contributed-talk-20-min--10-min-questions-single-track&#34;&gt;Contributed talk (20 min. + 10 min. questions, single-track)&lt;/h3&gt;
+&lt;p&gt;There will be &lt;strong&gt;five&lt;/strong&gt; talk presentations for each of the four topic areas in a &lt;strong&gt;single track session&lt;/strong&gt;.&lt;br&gt;
+Talks will be &lt;strong&gt;20 minutes long&lt;/strong&gt; followed by up to &lt;strong&gt;10 minutes of questions&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;poster-presentation-50-min-multi-track&#34;&gt;Poster presentation (50 min., multi-track)&lt;/h3&gt;
+&lt;p&gt;Each of the four topic areas will have a poster presentation which will take &lt;strong&gt;50 minutes&lt;/strong&gt;, during which participants will be able to join various Zoom sessions of the presenters. These are aimed to allow for interactive presentations and can go beyond showing a PDF of a poster, e.g. can include &lt;strong&gt;code demonstrations&lt;/strong&gt;, etc.&lt;/p&gt;
+&lt;h1 id=&#34;schedule&#34;&gt;Schedule&lt;/h1&gt;
+&lt;p&gt;To be announced.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Participants</title>
+      <link>http://maths-of-data.github.io/participants/</link>
+      <pubDate>Mon, 20 Apr 2020 14:21:21 +0200</pubDate>
+      
+      <guid>http://maths-of-data.github.io/participants/</guid>
+      <description>&lt;p&gt;To be announced.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Access</title>
+      <link>http://maths-of-data.github.io/access/</link>
+      <pubDate>Mon, 20 Apr 2020 14:21:14 +0200</pubDate>
+      
+      <guid>http://maths-of-data.github.io/access/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
