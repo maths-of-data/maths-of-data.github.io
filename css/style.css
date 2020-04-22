@@ -142,7 +142,7 @@ header {
 }
 
 header h1 {
-    font-size: 2em;
+    font-size: 1.8em;
     margin-top: 1em;
     margin-bottom: 0;
     font-weight: normal;
@@ -162,16 +162,18 @@ header nav {
 }
 
 header nav a {
-    margin-left: 0.8em;
+    margin-left: 0.5em;
 }
 
 header a {
     /* font-size: 1.2em; */
-    color: #333;
+    /* color: #333; */
+    color:#003566;
+
 }
 
 .site-header {
-    white-space: nowrap;
+    white-space: normal;
 }
 
 /* Pages */
@@ -181,7 +183,7 @@ main h1 {
     line-height: 1.1em;
     margin-bottom: 0.5em;
     font-weight: 600;
-    font-size: 1.25em;
+    font-size: 1.2em;
     font-family: Optima, Candara, Calibri, Arial, sans-serif;
 }
 
@@ -219,7 +221,7 @@ article:not(:last-of-type) {
 }
 
 article header h1 {
-    font-size: 1.5em;
+    font-size: 1.2em;
     line-height: 1.1em;
     margin-bottom: 0.5em;
     font-weight: 600;
