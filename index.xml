@@ -29,7 +29,36 @@
 &lt;li&gt;Cathie Wells, &lt;strong&gt;Optimising trajectories to reduce transatlantic flight emissions&lt;/strong&gt; [&lt;a href=&#34;https://maths-of-data.github.io/CathieWells-CAWellsSingleSlide.pdf&#34;&gt;pdf&lt;/a&gt;,&lt;a href=&#34;https://www.dropbox.com/s/agzfco6dpbu8gkd/Cathie%20Wells%20%20-%20CAWellsposterpresentation.mp4?dl=0&#34;&gt;video&lt;/a&gt;]&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;talks&#34;&gt;Talks&lt;/h1&gt;
-&lt;p&gt;To be announced.&lt;/p&gt;
+&lt;h3 id=&#34;mathematics-of-neural-netowrks-and-deep-learning&#34;&gt;Mathematics of Neural Netowrks and Deep Learning&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Gitta Kutyniok, &lt;strong&gt;The Mathematics of Deep Learning: Can we Open the Black Box of Deep Neural Networks&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Barbara Mahler, &lt;strong&gt;Contagion Maps for Manifold Learning&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Patrick Kidger, &lt;strong&gt;Universal Approximation - Transposed!&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Haoran Ni, &lt;strong&gt;Numerical Estimation of Information Measures&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;optimisation&#34;&gt;Optimisation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Peter Richtarik, &lt;strong&gt;On Second Order Methods and Randomness&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Louis Sharrock, &lt;strong&gt;Two-Timescale Stochastic Approximation in Continuous Time with Applications to Joint Online Parameter Estimation and Optimal Sensor Placement&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Nash Treetanthi, &lt;strong&gt;Uncertainty aversion in Multi-armed bandit problem&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Florentin Goyens, &lt;strong&gt;Nonlinear matrix recovery&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Vadim Platonov, &lt;strong&gt;Forward utilities and Mean-field games underrelative performance concerns&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Melanie Beckerleg, &lt;strong&gt;Binary Matrix Completion for Recommender Systems, with applications to Drug Discovery&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;applications-of-machine-learning-in-life-sciences&#34;&gt;Applications of machine learning in life sciences&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Carola Schönlieb, &lt;strong&gt;Hybrid mathematical and machine learning methods for solving inverse imaging problems - getting the best from both worlds&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Tamara Grossman, &lt;strong&gt;Deeply Learned Spectral Total Variation Decomposition&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Lancelo Da-Costa, &lt;strong&gt;A global brain theory, stochastic thermodynamics and applications to autonomous behaviour&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Laura Guzmán Rincón, &lt;strong&gt;Outbreak detection using Bayesian hierarchical modelling and Gaussian random fields&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;bayesian-methods&#34;&gt;Bayesian methods&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Alexandre Bouchard-Côté, &lt;strong&gt;Scalable approximation of integrals using non-reversible methods&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Henry Moss, &lt;strong&gt;BOSH: Bayesian Optimisation Sampled Hierarchically&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Sam Power, &lt;strong&gt;Accelerated Sampling on Discrete Spaces with Non-Reversible Markov Processes&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Riccardo Barbano, &lt;strong&gt;Quantifying Model-Uncertainty in Inverse Problems via Bayesian Deep Gradient Descent&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
