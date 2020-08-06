@@ -12,6 +12,38 @@
     
     
     <item>
+      <title></title>
+      <link>https://maths-of-data.github.io/lessons/</link>
+      <pubDate>Thu, 06 Aug 2020 10:14:25 +0100</pubDate>
+      
+      <guid>https://maths-of-data.github.io/lessons/</guid>
+      <description>&lt;h1 id=&#34;lessons-learned&#34;&gt;Lessons learned&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;written by &lt;a href=&#34;https://www.dpmms.cam.ac.uk/~ts671/&#34;&gt;Torben Sell&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The first Mathematics of Data Science Conference was organised to make up for cancelled conferences due to COVID-19, and the prime target were grad students in the UK with the hope of enabling the students to get to know each other and build a community amongst them.&lt;/p&gt;
+&lt;p&gt;It was held over two days (12th and 13th June 2020), and consisted of four keynote talks by established mathematicians, 14 student talks, a poster session, and two social events. About 180 participants registered for the conference, and the talks were attended by anything between 30 and 60 people at a time.&lt;/p&gt;
+&lt;p&gt;This short text aims to summarise the lessons learned in the hope that future conference organisers can improve the experience of attendees. It is based on a short survey amongst the participants (we got 9 responses), and on direct feedback from both organisers and attendees.&lt;/p&gt;
+&lt;h2 id=&#34;talks&#34;&gt;Talks&lt;/h2&gt;
+&lt;p&gt;The talks were perceived very positively. It is worth noting that a majority of the participants only attended a proper subset of the talks, presumably those that were close to their own field of research. Two thirds of the survey respondents went to only one or two of the four keynote talks, and to less than half of the student talks.&lt;/p&gt;
+&lt;h2 id=&#34;posters&#34;&gt;Posters&lt;/h2&gt;
+&lt;p&gt;The poster session was, mildly put, a fail. The format was such that every poster contribution consisted of a pre-submitted three-minute video which was made available online, and a separate video call for each poster. The hope was that people would watch the video, and join the respective call to chat with the poster presenter.&lt;/p&gt;
+&lt;p&gt;Very few conferences participants attended, and only one of the survey respondents, who criticised the timing of the poster session (just after a lunch break). Of those who didn’t attend the poster session, two reasons for not going that were mentioned multiple times were a lack of time, and no posters being in topics related to the participants’ research. Another note-worthy point is that the setup was described as awkward if one went into one room and then wanted to leave if not being very interested.
+Some direct feedback we received pointed out that it was difficult knowing which posters are currently not visited (to optimise where to go next), and that the poster presenters found it difficult to check out other posters themselves.&lt;/p&gt;
+&lt;h2 id=&#34;social-events&#34;&gt;Social events&lt;/h2&gt;
+&lt;p&gt;The first social event we organised, was a lovely pub quiz (thanks for preparing it, Connah!), which was attended by only two of the conference attendees. The second social event was an informal chat which was also poorly attended. Interestingly, most respondents to the survey (6) asked for more opportunities for socialising and networking, while one asked for fewer.
+In the authors opinion it would be particularly nice to come up with formats of socials which allow interactions closer to ‘real’ networking events, and to include them also during the day, when people might be more inclined to participate.&lt;/p&gt;
+&lt;h2 id=&#34;future-conferences&#34;&gt;Future conferences&lt;/h2&gt;
+&lt;p&gt;We asked, if, and in what form the conference should take place in the future. Opinions were mixed here, but it’s worth noting that a third of the respondents preferred MathODS to remain completely virtual, a third for it to become part virtual, part ‘real’, and the other third preferred a conference organised somewhere in the UK (if the circumstances allow).&lt;/p&gt;
+&lt;h2 id=&#34;last-comments&#34;&gt;Last comments&lt;/h2&gt;
+&lt;p&gt;A few useful comments we received (in no particular order) include the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It would’ve been nice to have the presentation pdf files available online before the talks start, so attendees can go back in the presentation if necessary.&lt;/li&gt;
+&lt;li&gt;Live streaming the talks to YouTube worked well, and allowed the videos to be easily put online afterwards.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Many thanks to all keynote, and student speakers, to all survey respondents, all participants, and the organising committee for putting together MathODS!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Plenary Talks</title>
       <link>https://maths-of-data.github.io/plenary-talks/</link>
       <pubDate>Tue, 09 Jun 2020 17:07:39 +0200</pubDate>

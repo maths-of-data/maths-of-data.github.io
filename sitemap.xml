@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://maths-of-data.github.io/lessons/</loc>
+    <lastmod>2020-08-06T10:14:25+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://maths-of-data.github.io/plenary-talks/</loc>
     <lastmod>2020-06-09T17:07:39+02:00</lastmod>
   </url>
